@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\code\pluslabs\LabTwo\LabTwo\MyForm.h(156,19): warning C4101: d: неиспользованная локальная переменная
+D:\code\pluslabs\LabTwo\LabTwo\MyForm.cpp(6,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabTwo.vcxproj -> D:\code\pluslabs\LabTwo\x64\Debug\LabTwo.exe
