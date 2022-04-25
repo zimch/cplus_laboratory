@@ -1,0 +1,4 @@
+D:\code\pluslabs\LabPlus\LabPlus\x64\Debug\LabPlus.vcxproj.AssemblyReference.cache
+D:\code\pluslabs\LabPlus\LabPlus\x64\Debug\LabPlus.vcxproj.SuggestedBindingRedirects.cache
+D:\code\pluslabs\LabPlus\LabPlus\x64\Debug\LabPlus.MyForm.resources
+D:\code\pluslabs\LabPlus\LabPlus\x64\Debug\LabPlus.vcxproj.GenerateResource.cache
